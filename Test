@@ -1,0 +1,5 @@
+const f = require('./All functions.Js');
+
+console.log(f.Factorial(6));
+console.log(f.Gcd(50,25));
+console.log(f.Lcm(70, 15));
